@@ -1,5 +1,3 @@
-# cancer-dashboard
-A Flask-based web app to visualize cancer clinical data 
 # Cancer Dashboard
 
 This project is a Flask-based web application that visualizes demographic and clinical cancer data from TCGA and cBioPortal.
